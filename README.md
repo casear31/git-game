@@ -21,10 +21,6 @@ https://github.com/mikeizbicki/ucr-cs100/tree/2015winter/textbook/tools/git/adva
 
 Otherwise, you are free to continue...
 
-**You can win a badge for completing this game!**
-
-learn more about badges here: https://openbadgefactory.com/faq
-
 **You should always check the README.md file for your next clue!**
 
 ``Level 1``
